@@ -6,5 +6,5 @@ esp32:
     type: esp-idf
     components:
       - name: tesla-ble
-        source: https://github.com/motelcnu/tesla-ble.git
+        source: https://github.com/yoziru/tesla-ble.git
         ref: v4.1.3
